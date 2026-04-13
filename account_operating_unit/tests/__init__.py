@@ -6,4 +6,5 @@ from . import test_cross_ou_journal_entry
 from . import test_onchange_operating_unit_access
 from . import test_operating_unit_security
 from . import test_payment_operating_unit
+from . import test_payment_register_journal_ou
 from . import test_account_reconcile
